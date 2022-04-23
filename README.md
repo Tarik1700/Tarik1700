@@ -1,4 +1,4 @@
-<h1>Hi! 
+<h1 align="center">Hi! 
 My name is Tarik Omerhodžić<h1/>
 
   
