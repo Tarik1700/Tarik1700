@@ -5,7 +5,7 @@
  <hr>
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarik1700&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarik1700&layout=compact&theme=dark&exclude_repo=ChocoVal-website)](https://github.com/anuraghazra/github-readme-stats)
 
 Disclaimer: These stats do not accurately represent my full coding skillset or knowledge.
 
